@@ -88,5 +88,4 @@ def main():
         time.sleep(args.interval)
 
 if __name__ == "__main__":
-    initial_files = set()
     main()
